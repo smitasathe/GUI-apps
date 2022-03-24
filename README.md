@@ -10,7 +10,7 @@ pip install tkinter
 # 1. Simple calculator
 Made using Tkinter library.
 It can be used to calculate simple mathematical calculations such as add, subtract, division, multiplication and percentage.
-
+ 
 ![Calulator sample](https://user-images.githubusercontent.com/91836429/159948512-451b2efb-b88d-40e9-893c-597e5a3152ab.PNG)
 # 2. Digital Clock
 Made using Tkinter library.
