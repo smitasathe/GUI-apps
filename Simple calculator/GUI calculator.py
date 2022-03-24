@@ -1,4 +1,4 @@
-# 1 Simple GUI calculator using Tkinter
+#  Simple GUI calculator using Tkinter
 from tkinter import *
 
 def input(num):
