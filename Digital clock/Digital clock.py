@@ -1,4 +1,4 @@
-#5 Create a digital clock using Tkinter
+# Create a digital clock using Tkinter
 from tkinter import*
 from time import strftime
 
