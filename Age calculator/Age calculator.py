@@ -1,4 +1,4 @@
-# 4 Age calculator using Tkinter
+#  Age calculator using Tkinter
 from tkinter import *
 from tkinter import messagebox
 
