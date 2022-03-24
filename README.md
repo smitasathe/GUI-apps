@@ -21,3 +21,7 @@ Made using Tkinter library.
 It can be used to calculate age with the help of complete birth date and todays date.
 
 ![Age calculator sample](https://user-images.githubusercontent.com/91836429/159948968-230a5547-2195-4273-bef5-fd5a58bfcb9f.PNG)
+# 4 Weight convertor
+Made using Tkinter library.
+It can be used to convert weight in kg to various units such as mg, gm, kg, T, N
+![Weight convertor sample](https://user-images.githubusercontent.com/91836429/159978166-800a3ac1-78bc-4fe9-a7a4-3c1ed570c997.PNG)
