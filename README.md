@@ -30,3 +30,7 @@ Made using Tkinter library.
 This is a notepad application.
 ![Notepad sample](https://user-images.githubusercontent.com/91836429/160117127-161df4f6-35e6-4ea3-8682-7d7cb031c34a.png)
 
+# 6 File explorer
+Made using Tkinter library.
+This is a file explorer. In this we can list files name from any directory.
+![File explorer sample](https://user-images.githubusercontent.com/91836429/160118331-7ee7509a-962b-4fb3-bd7c-817535ab075f.PNG)
