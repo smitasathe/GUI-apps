@@ -7,6 +7,10 @@ pip install tkinter
 1. Simple Calculator
 2. Digital Clock
 3. Age calculator
+4. Weight convertor
+5. Notepad
+6. File explorer
+
 # 1. Simple calculator
 Made using Tkinter library.
 It can be used to calculate simple mathematical calculations such as add, subtract, division, multiplication and percentage.
