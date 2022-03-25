@@ -25,3 +25,8 @@ It can be used to calculate age with the help of complete birth date and todays 
 Made using Tkinter library.
 It can be used to convert weight in kg to various units such as mg, gm, kg, T, N
 ![Weight convertor sample](https://user-images.githubusercontent.com/91836429/159978166-800a3ac1-78bc-4fe9-a7a4-3c1ed570c997.PNG)
+# 5 Notepad
+Made using Tkinter library.
+This is a notepad application.
+![Notepad sample](https://user-images.githubusercontent.com/91836429/160117127-161df4f6-35e6-4ea3-8682-7d7cb031c34a.png)
+
