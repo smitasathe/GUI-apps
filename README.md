@@ -10,6 +10,8 @@ pip install tkinter
 4. Weight convertor
 5. Notepad
 6. File explorer
+7. Music application
+8. Calculator in kivy
 
 # 1. Simple calculator
 Made using Tkinter library.
@@ -45,3 +47,9 @@ Made using Tkinter library.
 This is an exe file. In this we can import songs from any directory by clicking on open file name. You need to select a folder from where you want to import songs.
 In this way we can play song from that folder. It also hs buttons such as play, pause, resume, rewind, stop and volume.
 ![Music app sample](https://user-images.githubusercontent.com/91836429/161990294-459d3113-63f5-459b-90c5-5023d05bbee9.PNG)
+
+# 8. Calculator in kivy
+Made using Kivy library.
+It can be used to calculate simple mathematical calculations such as additon, division, multiplication and percentage.
+![Calculator](https://user-images.githubusercontent.com/91836429/161994519-f5e5cadf-baf8-44e5-a122-bb6d421cbfba.PNG)
+
