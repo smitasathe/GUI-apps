@@ -39,3 +39,9 @@ This is a notepad application.
 Made using Tkinter library.
 This is a file explorer. In this we can list files name from any directory.
 ![File explorer sample](https://user-images.githubusercontent.com/91836429/160118331-7ee7509a-962b-4fb3-bd7c-817535ab075f.PNG)
+
+# 7. Music application
+Made using Tkinter library.
+This is an exe file. In this we can import songs from any directory by clicking on open file name. You need to select a folder from where you want to import songs.
+In this way we can play song from that folder. It also hs buttons such as play, pause, resume, rewind, stop and volume.
+![Music app sample](https://user-images.githubusercontent.com/91836429/161990294-459d3113-63f5-459b-90c5-5023d05bbee9.PNG)
